@@ -1,0 +1,6 @@
+url: https://github.com/Cci-65/dsh-ui-plugin/tree/main/plugins/model-strength-picker
+name: Cci-65/dsh-ui-plugin#model-strength-picker
+category: model
+description:
+  en: Adds configurable reasoning levels for third-party models and a model-strength picker in the composer.
+  zh: 为第三方模型配置推理强度档位，并在输入栏提供模型与强度选择器。

@@ -1,5 +1,5 @@
-url: https://github.com/Cci-65/dsh-ui-plugin/tree/main/plugins/model-strength-picker
-name: Cci-65/dsh-ui-plugin#model-strength-picker
+url: https://github.com/Cci-65/deepseek-harness-plugin
+name: Cci-65/deepseek-harness-plugin
 category: model
 description:
   en: Adds configurable reasoning levels for third-party models and a model-strength picker in the composer.
